@@ -15,12 +15,12 @@ I'm a recent graduate of General Assembly's Software Engineering course with a p
 ---
 
 <h2> 🧰  ToolBox </h2>
-
+<div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  alt="React logo" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJS Logo" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg"  alt="AWS Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"  alt="Google Logo" width="50" height="50"/>
-
+</div>
 <h3> 🌍 Languages </h3>
 
 <div>

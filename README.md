@@ -16,7 +16,8 @@
 ---
 
 <div id='intro' align='center'>
-### :man_technologist: About Me :
+
+  ### :man_technologist: About Me :
 
 - :telescope: I have successfully completed General Assembly's Software Engineering Program, earning a certificate that validates my expertise in adapting to dynamic work environments and fostering productive collaborations within diverse teams. My professional experience spans across roles as a front-end engineer, back-end engineer, and full-stack engineer. Having been raised in the vicinity of Salt Lake City, Utah, I have long held a profound fascination for technology and its potential to create significant global impact.
 
@@ -51,6 +52,7 @@ Proud graduate of General Assembly's Software Engineering Immersive.
 
 ### :hammer_and_wrench: Languages and Tools :
 
+---
 <div id='Tools_Languages'>
 <h2> 🧰  ToolBox </h2>
 

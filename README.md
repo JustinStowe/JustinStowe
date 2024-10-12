@@ -47,7 +47,11 @@ Proud graduate of General Assembly's Software Engineering Immersive.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustinStowe&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
+<div>
+  
+  <figure><embed src="https://wakatime.com/share/@Shadowangel12/9c89847d-3483-4173-8f66-b9913073a3aa.svg"></embed></figure>
+  
+</div>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :

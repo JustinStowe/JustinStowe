@@ -26,7 +26,7 @@
 ---
 
 <h1 id='banner' align='center'> 
-Proud graduate of General Assembly's Software Engineering Immersive.
+Proud Student and Employee @ the University of Utah.
 </h1>
 
 ### :fire: My stats :
@@ -48,9 +48,7 @@ Proud graduate of General Assembly's Software Engineering Immersive.
 
 </div>
 <div>
-  
-  <figure><embed src="https://wakatime.com/share/@Shadowangel12/9c89847d-3483-4173-8f66-b9913073a3aa.svg"></embed></figure>
-  
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Shadowangel12/abf97d52-03f8-4554-a5e3-ccf43fc3fd65.png" /></a>
 </div>
 ---
 

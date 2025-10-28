@@ -1,23 +1,25 @@
-<div id='header' align='center'>
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width='100'>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100" alt="Coding animation">
 </div>
 
-<div id='badges' align='center'>
-  <a href='https://www.linkedin.com/in/justin-stowe/'>
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/justin-stowe/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href='https://justinstowe.github.io/JustinStowe/'>
-  <img src='https://www.nicepng.com/png/detail/111-1112693_portfolio-my-portfolio.png' width='100' height='30'></a>
+  <a href="https://justinstowe.github.io/JustinStowe/">
+    <img src="https://www.nicepng.com/png/detail/111-1112693_portfolio-my-portfolio.png" width="100" height="30" alt="Portfolio Badge">
+  </a>
 </div>
-<div id='views' align='center'>
-  <img src='https://komarev.com/ghpvc/?username=JustinStowe&style=flat-square&color=blue' alt="Profile Views">
+
+<div id="views" align="center">
+  <img src="https://komarev.com/ghpvc/?username=JustinStowe&style=flat-square&color=blue" alt="Profile Views">
 </div>
 
 ---
 
-<div id='intro' align='center'>
+<div id="intro" align="center">
 
-  ### :man_technologist: About Me :
+### :man_technologist: About Me :
 
 - :telescope: I have successfully completed General Assembly's Software Engineering Program, earning a certificate that validates my expertise in adapting to dynamic work environments and fostering productive collaborations within diverse teams. My professional experience spans across roles as a front-end engineer, back-end engineer, and full-stack engineer. Having been raised in the vicinity of Salt Lake City, Utah, I have long held a profound fascination for technology and its potential to create significant global impact.
 
@@ -25,55 +27,63 @@
 
 ---
 
-<h1 id='banner' align='center'> 
+<h1 id="banner" align="center"> 
 Proud Student and Employee @ the University of Utah.
 </h1>
 
-### :fire: My stats :
+---
 
-<div id='stats' align='center'>
+### :fire: My Stats :
 
-<div class= "badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity= "justin-stowe-software-engineer" data-version='v1'>
-
- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="justin-stowe-software-engineer" data-version="v1">
- </div>
+<div id="stats" align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JustinStowe&theme=dark&background=000000)](https://git.io/streak-stats)
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JustinStowe&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JustinStowe&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
 </div>
-<div id='most-used-languages' align='center'>
+
+<div id="most-used-languages" align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustinStowe&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-<div>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Shadowangel12/abf97d52-03f8-4554-a5e3-ccf43fc3fd65.png" /></a>
+
+<div id="wakatime" align="center">
+  <a href="https://wakatime.com">
+    <img src="https://wakatime.com/share/@Shadowangel12/abf97d52-03f8-4554-a5e3-ccf43fc3fd65.png" alt="Wakatime Stats" />
+  </a>
 </div>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 
----
-<div id='Tools_Languages'>
-<h2> 🧰  ToolBox </h2>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  alt="React logo" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJS Logo" width="50" height="50" background='white' />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  alt="AWS Logo" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"  alt="Google Logo" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwindcss" alt="Tailwindcss" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"  alt="MongoDB" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg"  alt="Jira" width="50" height="50"/>&nbsp;
+<div id="tools-languages">
+
+<h2> 🧰 ToolBox </h2>
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React logo" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJS Logo" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS Logo" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud Logo" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwindcss" alt="Tailwindcss" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB Logo" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="Jira Logo" width="50" height="50"/>&nbsp;
+</div>
 
 <h3> 🌍 Languages </h3>
 
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript Logo" width="50" height="50" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript Logo" width="50" height="50" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java Logo" width="50" height="50" />&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript Logo" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript Logo" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java Logo" width="50" height="50"/>&nbsp;  
+</div>
+
 </div>

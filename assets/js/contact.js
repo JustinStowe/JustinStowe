@@ -1,4 +1,12 @@
 const form = document.querySelector("form");
+const feedback = document.getElementById("form-feedback");
+
+function showFeedback(message, isSuccess) {
+  feedback.textContent = message;
+  feedback.className = "mb-3 alert " + (isSuccess ? "alert-success" : "alert-danger");
+  feedback.style.display = "block";
+}
+
 form.addEventListener("submit", (e) => {
   e.preventDefault();
   const name = document.querySelector("#name-2").value;
@@ -7,6 +15,7 @@ form.addEventListener("submit", (e) => {
 
   sendEmail(name, email, message);
 });
+
 function sendEmail(name, email, message) {
   fetch("https://api.emailjs.com/api/v1.0/email/send", {
     method: "POST",
@@ -25,10 +34,10 @@ function sendEmail(name, email, message) {
     }),
   })
     .then((response) => {
-      console.log("SUCCESS", response);
+      showFeedback("Message sent! I will get back to you soon.", true);
       form.reset();
     })
     .catch((error) => {
-      console.log("FAILED", error);
+      showFeedback("Something went wrong. Please try again or reach out via LinkedIn.", false);
     });
 }

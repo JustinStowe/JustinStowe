@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100" alt="Coding animation">
   <h1>Justin Stowe</h1>
-  <h3>Software Engineer &amp; Photographer &nbsp;|&nbsp; Salt Lake City, UT</h3>
+  <h3>Software Engineer &nbsp;|&nbsp; Salt Lake City, UT</h3>
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://justinrecommendations.com">
-    <img src="https://img.shields.io/badge/Photography-f97316?style=for-the-badge&logo=unsplash&logoColor=white" alt="Photography"/>
+    <img src="https://img.shields.io/badge/Free%20CS%202420%20Tool-f97316?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Free CS 2420 Tool"/>
   </a>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=JustinStowe&style=flat-square&color=blue" alt="Profile Views">
@@ -22,10 +22,10 @@
 
 ## :man_technologist: About Me
 
-Full-stack software engineer based in Salt Lake City, UT with experience across front-end, back-end, and full-stack roles. I completed General Assembly's Software Engineering Immersive and currently study and work at the University of Utah. Outside of code I am a passionate photographer and proud father of four.
+Full-stack software engineer based in Salt Lake City, UT with experience across front-end, back-end, and full-stack roles. I completed General Assembly's Software Engineering Immersive and currently study and work at the University of Utah. Outside of code I am a proud father of four.
 
 - :rocket: &nbsp;Comfortable across the full stack — from REST APIs to polished UIs
-- :camera: &nbsp;Amateur photographer with a dedicated [photography site](https://justinrecommendations.com)
+- :bar_chart: &nbsp;Creator of a [free CS 2420 coursework tool](https://justinrecommendations.com) used at the University of Utah
 - :books: &nbsp;Continuously expanding my skills at the University of Utah
 - :speech_balloon: &nbsp;Open to collaborations — [let's connect](https://justinstowe.github.io/JustinStowe/contact.html)
 

@@ -22,7 +22,7 @@
 
 ## :man_technologist: About Me
 
-Full-stack software engineer based in Salt Lake City, UT with experience across front-end, back-end, and full-stack roles. I completed General Assembly's Software Engineering Immersive and currently study and work at the University of Utah. Outside of code I am a passionate photographer and proud father of three.
+Full-stack software engineer based in Salt Lake City, UT with experience across front-end, back-end, and full-stack roles. I completed General Assembly's Software Engineering Immersive and currently study and work at the University of Utah. Outside of code I am a passionate photographer and proud father of four.
 
 - :rocket: &nbsp;Comfortable across the full stack — from REST APIs to polished UIs
 - :camera: &nbsp;Amateur photographer with a dedicated [photography site](https://justinrecommendations.com)
